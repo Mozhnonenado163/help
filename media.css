@@ -1,0 +1,336 @@
+
+@media (max-width:1440px){
+    
+    .auto {
+        margin: 0 10%;
+    }
+
+    .wrapper {
+        margin: 0 10%;
+    }
+
+    .top {   
+        height: 80px;
+    }
+
+    
+    .nav {
+        padding-top: 10px;
+        gap: 20px;
+    }
+    
+    .nav li a {
+        font-size: 50px;
+    }
+    
+    .logo {
+        padding-top: 15px;
+    }
+    
+    .logo img {
+        height: 50px;
+        width: 50px;
+    }
+    
+    .logo_par {
+        margin-left: 20px;
+    }
+    
+    .logo_par img{
+        height: 50px;
+        width: 50px;
+    }
+    
+    .logo_parText {
+        width: 250px;
+        font-size: 15px;
+    }
+    
+    .info {
+        padding-top: 10px;
+        height: 680px;
+    }
+
+    .info_text {
+        padding-top: 50px;
+    }
+    
+    .info_text h1 {
+        font-size: 100px;
+        width: 500px;
+    }
+    
+    .info_text button {
+        margin-top: 40px;
+        width: 300px;
+        height: 80px;
+        font-size: 50px;
+    }
+    
+    .info_rigth {
+    
+        padding-top: 70px;
+    }
+    
+    .info_rigth img {
+        width: 400px;
+        height: 400px;
+    }
+    
+    .info_rigth span {
+        padding-top: 30px;
+
+    }
+    
+        .info_time {
+        padding-top: 70px;
+        font-size: 50px;
+        font-weight: 600;
+        gap: 100px;
+    }
+    
+
+    .mapsHelp {
+        margin-top: 10px;
+        border: solid #3e70b6 5px;
+        height: 500px;
+    }
+
+    .mapsHelp iframe {
+        width: 100%;
+    }
+
+    footer {
+        margin-top: 50px;
+        height: 80px;
+    }
+
+    .logoMin img {
+        padding-top: 15px;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .logoMin span {
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 50px;
+        font-size: 15px;
+            }
+    
+    .adres{
+        padding-top: 8px;
+        gap: 50px;
+    }
+    
+    .adres a {
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .adres_vk {
+        padding-top: 7px;
+    }
+        .adres_vk img {
+        padding-top: 8px;
+        width: 30px;
+    }
+    
+    .adres_vk span {
+        padding-top: 5px;
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 30px;
+        font-family: 'Alumni Sans', sans-serif;
+        text-shadow: 1px 2px 2px rgb(0, 0, 0);
+    }
+    
+    .adresHelp {
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 20px;
+
+        text-align: end;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1024px){
+    
+    .auto {
+        margin: 0 10%;
+    }
+
+    .wrapper {
+        margin: 0 10%;
+    }
+
+    .top {   
+        height: 50px;
+    }
+
+    
+    .nav {
+        padding-top: 7px;
+        gap: 10px;
+    }
+    
+    .nav li a {
+        font-size: 30px;
+    }
+    
+    .logo {
+        padding-top: 5px;
+    }
+    
+    .logo img {
+        height: 40px;
+        width: 40px;
+    }
+    
+    .logo_par {
+        margin-left: 2px;
+    }
+    
+    .logo_par img{
+        height: 40px;
+        width: 40px;
+    }
+    
+    .logo_parText {
+        width: 150px;
+        font-size: 10px;
+    }
+    
+    .info {
+        padding-top: 10px;
+        height: 450px;
+    }
+
+    .info_text {
+        padding-top: 20px;
+    }
+    
+    .info_text h1 {
+        font-size: 60px;
+        width: 300px;
+    }
+    
+    .info_text button {
+        padding-top: 1px;
+        width: 200px;
+        height: 50px;
+        font-size: 30px;
+    }
+    
+    .info_rigth {
+            padding-top: 15px;
+    }
+    
+    .info_rigth img {
+        padding-left: 100px;
+        width: 280px;
+        height: 280px;
+    }
+    
+    .info_rigth span {
+        padding-top: 5px;
+        font-size: 20px;
+        text-align: center;
+        width:  300px;
+        padding-left: 100px;
+
+    }
+    
+        .info_time {
+        padding-top: 20px;
+        font-size: 30px;
+        font-weight: 600;
+        gap: 100px;
+    }
+    
+
+    .mapsHelp {
+        margin-top: 10px;
+        border: solid #3e70b6 5px;
+        height: 400px;
+    }
+
+    .mapsHelp iframe {
+        width: 100%;
+    }
+
+    footer {
+        margin-top: 50px;
+        height: 80px;
+    }
+
+    .logoMin img {
+        padding-top: 15px;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .logoMin span {
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 50px;
+        font-size: 15px;
+            }
+    
+    .adres{
+        padding-top: 8px;
+        gap: 50px;
+    }
+    
+    .adres a {
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .adres_vk {
+        padding-top: 7px;
+    }
+        .adres_vk img {
+        padding-top: 8px;
+        width: 30px;
+    }
+    
+    .adres_vk span {
+        padding-top: 5px;
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 30px;
+        font-family: 'Alumni Sans', sans-serif;
+        text-shadow: 1px 2px 2px rgb(0, 0, 0);
+    }
+    
+    .adresHelp {
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 20px;
+
+        text-align: end;
+    }
+
+}

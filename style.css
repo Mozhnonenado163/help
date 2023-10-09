@@ -1,0 +1,390 @@
+.auto {
+
+    margin: 0 10%;
+}
+.wrapper {
+    max-width: 1296px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #023B8C;
+    border-bottom: 5px solid rgb(42 94 165);
+}
+
+.top {   
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type:none;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    gap: 50px;
+}
+
+.nav li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 68px;
+    font-style: normal;
+    font-family: 'Alumni Sans', sans-serif;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+.logo {
+    padding-top: 10px;
+    display: flex;
+}
+
+.logo img {
+    height: 100px;
+    width: 100px;
+}
+
+.logo_par {
+    margin-left: 50px;
+    display: flex;
+}
+
+.logo_par img{
+    height: 100px;
+    width: 100px;
+}
+
+.logo_parText {
+    color: #ffffff;
+    width: 380px;
+    padding-top: 4px;
+    font-size: 30px;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.info {
+    padding-top: 60px;
+    height: 750px;
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(2,59,140,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(2,59,140,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(2,59,140,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#023b8c",GradientType=1);
+}
+
+.info_L_and_R {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info_text {
+    padding-top: 50px;
+}
+
+.info_text h1 {
+    color: #FFFFFF;
+    font-size: 120px;
+    font-weight: 600;
+    width: 600px;
+    line-height: 0.9;
+    letter-spacing:1px;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+.info_text button {
+    margin-top: 40px;
+    width: 400px;
+    height: 80px;
+    border-radius: 30px;
+    background: none;
+    font-weight: 600;
+    font-size: 50px;
+    letter-spacing:2px;
+    color: rgb(255, 255, 255);
+    border: 5px solid white;
+    font-family: "Alumni Sans", sans-serif;
+    text-shadow: rgb(0, 0, 0) 1px 2px 2px;
+}
+
+.info_text button:hover {
+    background: #FFFFFF ;
+    color: rgb(41, 91, 161);
+    cursor: pointer;
+    text-shadow: none;
+
+}
+
+.info_rigth {
+
+    padding-top: 77px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.info_rigth img {
+    width: 400px;
+    height: 400px;
+}
+
+.info_rigth span {
+    color: #fff;
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+    padding-top: 75px;
+    font-weight: 400;
+    font-size: 27px;
+    width: 400px;
+}
+
+
+.info_time {
+    color: #FFFFFF;
+    padding-top: 50px;
+    display: flex;
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+    font-size: 70px;
+    font-weight: 600;
+    gap: 180px;
+}
+
+.info_time_l {
+    display: flex;
+    flex-flow: column wrap;
+    line-height: 0.9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mapsHelp {
+    margin-top: 50px;
+    border: solid #3e70b6 5px;
+    height: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    margin-top: 100px;
+    background-color: #3d77c9;
+    height: 120px;
+    border-top: solid 5px #d5e2ff;
+    flex: 0 0 auto;
+}
+
+
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoMin {
+    display: flex;
+}
+
+.logoMin img {
+    padding-top: 5px;
+    width: 120px;
+}
+
+.logoMin span {
+    color: #FFFFFF;
+    padding-top: 7px;
+    padding-left: 10px;
+    width: 50px;
+    font-size: 25px;
+    
+}
+
+.adres{
+    padding-top: 15px;
+    display: flex;
+    gap: 50px;
+}
+
+.adres a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 30px;
+    font-style: normal;
+    font-family: 'Alumni Sans', sans-serif;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+.adres_vk{
+    display: flex;
+    gap: 5px;
+}
+
+.adres_vk img {
+    padding-top: 30px;
+    width: 30px;
+}
+
+.adres_vk span {
+    padding-top: 29px;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Alumni Sans', sans-serif;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+.adresHelp {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Alumni Sans', sans-serif;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
